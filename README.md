@@ -1,8 +1,33 @@
-# React + Vite
+🌿 The Wild Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React project built as part of The Ultimate React Course (Udemy) to master React Router 6.4+ and modern React app architecture.
 
-Currently, two official plugins are available:
+🚀 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Wild Oasis is a hotel management web app that demonstrates real-world concepts such as:
+
+Nested and protected routes using React Router 6.4+
+
+Data loading with loaders and actions (no full-page reloads)
+
+State management with Context API and custom hooks
+
+Styled Components for reusable, theme-based UI
+
+Modular folder structure for scalable React apps
+
+🧠 Learning Journey
+
+This project helped me deeply understand how modern React apps handle navigation, async data fetching, authentication, and component-based UI design. It was a hands-on way to connect theory with professional-grade project structure.
+
+🛠️ Tech Stack
+
+⚛️ React 18 + Vite
+
+🧭 React Router 6.4+
+
+💅 Styled Components
+
+📦 Context API & Custom Hooks
+
+🧪 ESLint + Prettier
